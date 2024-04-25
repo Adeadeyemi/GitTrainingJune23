@@ -1,0 +1,38 @@
+Git Training  2.0
+
+1. Git is used for collaboration in Software development
+2. Also testers for automation
+
+Git status -- to check latest or updated info of git history
+Git init -- to set up or prepare working directory to be used
+Git add . -- stage/ tracking of files
+git commit - save the file and history of the version
+git push - to push commit to remote origin
+git merge - to add branch to main in origin or local
+git pull - to fetch and merge from remote repo
+git branch <name of your branch> - create a new branch
+git switch/git checkout to switch a desired branch 
+
+
+1. Create Specflow project with .Net6.0, Nunit, FluentAssertions
+
+2. Add Nugget Packages (update existing and add Selenium Webdriver,Support and Chrome)
+
+3. Folder Structure (add Hooks folder and PageOjects Folder)
+
+4. Create WebHooks Class
+
+5. Add new feature file 
+
+6. Generate Step Definitions
+
+7a. Constructor to  use the driver in hooks
+ b. Create PageOjects for web elements and methods
+
+8. Create objects in the step definition class to call the methods in the page classes
+
+9. Add Nunit assertion or Fluent assertions
+
+ 
+
+
